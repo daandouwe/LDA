@@ -5,3 +5,5 @@ readings/*
 *.ipynb
 *.csv
 *.txt
+*.html
+
